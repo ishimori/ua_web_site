@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 19.0.8.0 for Windows">
+<title>事例紹介 - xxxx様</title>
+<link rel="stylesheet" href="../hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="../container_1L_2c_top.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="../main_1L_2c.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="../user.css" type="text/css" id="hpbuser">
+<script type="text/javascript" src="../jquery.min.js"><!-- hpbiptitle jQuery library --></script> <script type="text/javascript" src="../move-mainnav.js">hpb-move-mainnav-js</script>
+<link rel="shortcut icon" href="../favicon.ico">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41005437-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body id="hpb-template-01-12-02" class="hpb-layoutset-02 hpb-responsive">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1>株式会社PROBSCはBIシステム構築、データ分析、Excel, Access, 超高速開発を得意分野とする仙台のソフトウェア企業です。</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="../index.html">株式会社PROBSC</a></div>
+    <div id="hpb-headerExtra1">
+      <p class="tel"><span>TEL. </span>022-200-9006</p>
+      <p class="address">〒980-0014 宮城県仙台市青葉区本町２－６－３５</p>
+    </div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title">
+        <h2><span class="ja">XXXX様導入事例紹介・インタビュー</span><span class="en">CONCEPT</span></h2>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <!-- concept -->
+        <div id="concept">
+          <font size="+1" color="#ff0000">システム担当者のうつ病が解消 - 既存ベンダー（地元の有力SIer）から、PRO&amp;BSC社に切り替えて得られたものとは！？</font>
+          <img src="eyecatch.jpg" width="610" height="300" border="0"><br>
+          XXXX様は地元有力SIerにシステム開発、運用支援を一括して委託していたが、とあるきっかけで、システム関連の外部委託作業をPRO&amp;BSC社に全面的に切り替えました。その経緯をインタビューで探ります。<br>
+          <br>
+          <h3>XXX様について</h3>
+          <p><font size="+1">XXXX様の展開している事業について</font><br>
+          東日本大震災により、心理的影響を受けた県内在住者の全てを心のケアの対象者としてとらえ、県民の方々がコミュニティの中で、一日も早く安心して生活できるよう、地域の実情に合わせた支援事業を行います。</p>
+          <p><img src="pamphlet.png" width="633" height="390" border="0"></p>
+          <p>今回対象となったXXX様が利用されているシステム概要<br>
+          ・業務報告書システム<br>
+          ・３拠点（仙台、石巻、気仙沼）のそれぞれでAccessにデータを入力する<br>
+          ・月次でセンター（仙台）にAccessを集約し、データ統合後、再度各拠点に最新版Accessを配信する<br>
+          </p>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+          <hr>
+          <h3>XXX社業務報告書システムで抱えていた問題点</h3>
+          <p>S社がシステム運用サポートしていた時の状況は以下の通り<br>
+          ・システム担当者は月１回程度発生するシステムトラブルの対応に追われ、本来業務に時間を使えない<br>
+          ・システム改修時、S社の暗い顔をしたSEが来て、予想通り不具合の発生、スケジュール遅延を度々</p>
+          <p><img src="img2313.jpg" width="176" height="132" border="0" align="left">このままS社に委託していてはまずい、という思いはあったものの、他のシステム開発会社を探そうにも、何から手を付けたら良いのか分からなかったので、１年以上不満を抱えたまま運用していた状況でした。<br>
+          <br>
+          そうしている間にもデータ量が増えたことにより、システムのレスポンスがどんどん悪化し、まさに待ったなしの状況に追い込まれていったのです。<br clear="all">
+          </p>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+
+          <h3>PRO&amp;BSC社との出会い</h3>
+          <p>始めはホームページのちょっとした改修をお願いしたんです。大学の同期に、ホームページ改修をお願いできるような会社を紹介してくれないか、と相談したところ、PRO&amp;BSCのウェブソリューション事業部を紹介されました。ホームページ改修の打合せのついでに、Accessの改修をお願いできないか？と聞いてみたところ、他事業部（ユーザーアプリケーション事業部）が対応できる、ということで今に繋がりました。</p>
+          <p>当初はAccessの改修に留める予定だったのですが、調査を依頼したところ<br clear="none">
+          ・現時点で検索画面のレスポンスが30秒以上<br>
+          ・数年以内にデータ量の増加が原因で、システムエラーが発生する<br>
+          という調査結果をPRO&amp;BSC社よりいただきました。<br>
+          <br>
+          この調査報告と同じタイミングで、WebPerformerを使ってシステムの全面見直しの提案をいただき、センター側で検討した結果、次のような3段階に分けてシステムのリプレースを行うことに決まりました。<br>
+          1段階目：利用者の台帳機能のみWebアプリに移行<br>
+          2段階目：台帳機能を使う業務報告書のみWebアプリに移行<br>
+          3段階目：その他の業務報告書をWebアプリに移行</p>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+
+          <h3>未経験の設計/開発手法への取り組み</h3>
+          <p>WebPerformerの開発は初めて、と始めに宣言されていたので、どういった進め方をするのか、不安でした。</p>
+          <p>設計フェーズは1ヶ月だったのですが、コミュニケーション手段はメールでしたが、大量のメールのやり取りをしていく中で、どれが最新版なのか、あの件はどこでメールしていたっけ？、ってなり、PRO&amp;BSCさんにどうにか改善できないか相談したんです。すると、次のような手法を提案していただきました。<br>
+          <br>
+          ①コミュニケーション手段　→　サイボウズLive（無償利用版）<br>
+          ②ファイルサーバー　→　Google Drive<br>
+          ③プロトタイプ　→　Web Performerを利用し、Amazon Web Serviceに即プロトタイプを展開</p>
+          <p>①サイボウズLive<br>
+          今や誰もが知っているサイボウズのグループウェア。サイボウズLiveはその無料利用可能版です。今回はプロジェクトメンバーが無償利用可能枠の20名以下だったので、問題なく利用出来ました。打合せスケジュールや、双方のTODOを中心に利用しました。目を通した書き込みには「イイネ」をクリックすることをルール化することで、双方のメッセージ確認状況を確認し合えるようにしたので、コミュニケーションに関しては全く問題なく行えました。</p>
+          <p>②Google Drive<br>
+          実はほとんど使ったことがなかったのですが、こんなに便利なものだとは思いませんでした。簡単に言うと、クラウド上のファイルサーバーとも表現できるのですが、双方で共有すべきファイルは全てGoogle
+          Drive上に配置するルールとしました。さらに、サイボウズLiveにはファイルへのリンクのみ記載します。こうすることで、このファイルって最新版？、ということが発生しなくなりました。</p>
+          <p>③Web Performer<br>
+          このツールのお陰でアプリケーションの品質は向上しました。打合せ後数日すると、AmazonWebServiceにもう画面が出来上がってくるんです。その次の打合せで実際に動く画面を見ながら改善、調整を行い、ブラッシュアップを重ねていきます。設計フェーズが終わる頃には画面も同時に出来上がっている、という。<br>
+          これまでは設計フェーズが完了しても動く画面を見ることは出来ず、しばらく経ってから動く画面を見れるようになり、その画面を見て初めて、「コレじゃない！」と、、、（笑）<br>
+          何度も何度も微妙な調整、改善をPRO&amp;BSCさんにはお願いしてしまいましたが、それがあったからこそ、現場利用者の利便性を考えた、納得の行くアプリケーションが作れた、と考えています。<br>
+          </p>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+
+          <h3>XXXXX</h3>
+          <p>YYYYYYYYYY</p>
+          <p>ZZZZZZZZZ</p>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+
+          <h3>XXXXX</h3>
+          <p>YYYYYYYYYY</p>
+          <p>ZZZZZZZZZ</p>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+
+          <h3>XXXXX</h3>
+          <p>YYYYYYYYYY</p>
+          <p>ZZZZZZZZZ</p>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+
+
+
+        </div>
+        <!-- concept end -->
+      </div>
+      <!-- main end -->
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav">
+      <h3 class="hpb-c-index">ナビゲーション</h3>
+      <ul>
+        <li id="nav-toppage"><a href="../index.html"><span class="ja">トップページ</span><span class="en">TOP&nbsp;PAGE</span></a> 
+        <li id="nav-concept"><a href="../about.html"><span class="ja">企業概要</span><span class="en">CONCEPT</span></a> 
+        <li id="nav-service"><a href="../business.html"><span class="ja">３つの提案</span><span class="en">SERVICE&amp;PRODUCTS</span></a> 
+        <li id="nav-news"><a href="../kintone.html"><span class="ja">kintone</span><span class="en">NEWS&amp;FAQ</span></a> 
+        <li id="nav-company"><a href="../xrad.html"><span class="ja">超高速開発</span><span class="en">COMPANY</span></a> 
+        <li id="nav-wp"><a href="../blog/wp.html">Web Peformer<span class="ja"></span><span class="en">Web Performer</span></a> 
+        <li id="nav-senzoku"><a href="../komon.html"><span class="ja">顧問エンジニア</span><span class="en">COMPANY</span></a> 
+        <li id="nav-recruit"><a href="../bi.html"><span class="ja">BIツール</span><span class="en">RECRUIT</span></a> 
+        <li id="nav-recruit"><a href="../other.html"><span class="ja">その他開発</span><span class="en">ANYTHING-OK</span></a> 
+      </ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <h3 class="hpb-c-index">バナースペース</h3>
+      <div id="banner">
+        <ul>
+          <li><a id="banner-blog" href="01.html" target="_self">成功事例</a> 
+          <li><a href="../kintone.html" id="banner-service">kintone</a> 
+          <li><a href="../xrad.html" id="banner-recruit">超高速開発</a> 
+          <li><a href="../komon.html" id="banner-exclusive">顧問エンジニア</a> 
+          <li><a href="../bi.html" id="banner-access">アクセス</a> <!--
+          <li><a href="http://probsc-ua.sblo.jp/" target="_blank" id="banner-blog">ブログ</a> 
+-->
+        </ul>
+      </div>
+      <div id="companyinfo">
+        <h3>株式会社PROBSC</h3>
+        <p>〒980-0014<br>
+        宮城県仙台市青葉区本町２－６－３５</p>
+        <p>TEL 022-200-9006<br>
+        FAX 022-721-3503<br>
+        URL <a href="http://probsc.jp" target="_blank">http://probsc.jp</a><br>
+        Mail probsc.ua@gmail.com<br>
+        担当 石森</p>
+      </div>
+    </div>
+    <!-- aside end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerMain">
+      <p>copyright&copy;2016&nbsp;PRO&amp;BSC inc.&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+    </div>
+    <div id="hpb-footerExtra1">
+      <h3 class="hpb-c-index">サブナビゲーション</h3>
+      <ul>
+        <li><a href="../privacy.html">プライバシーポリシー</a> 
+        <li><a href="../recruit.html">求める人物像</a> 
+      </ul>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<script type="text/javascript" src="../navigation.js">hpb-navigation-js</script> </body>
+</html>

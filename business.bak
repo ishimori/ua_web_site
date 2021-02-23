@@ -1,0 +1,210 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 19.0.12.0 for Windows">
+<title>ビジネスモデル - 株式会社ナナイロ</title>
+<link rel="stylesheet" href="hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="container_1L_2c_top.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="main_1L_2c.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="user.css" type="text/css" id="hpbuser">
+<script type="text/javascript" src="jquery.min.js"><!-- hpbiptitle jQuery library --></script> <script type="text/javascript" src="move-mainnav.js">hpb-move-mainnav-js</script>
+<link rel="shortcut icon" href="favicon.ico">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41005437-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body id="hpb-template-01-12-02" class="hpb-layoutset-02 hpb-responsive">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1>株式会社ナナイロはBIシステム構築、データ分析、Excel, Access, 超高速開発を得意分野とする仙台のソフトウェア企業です。</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="index.html">株式会社ナナイロ</a></div>
+    <div id="hpb-headerExtra1">
+      <p class="tel"><span>TEL. </span>022-200-9006</p>
+      <p class="address">〒980-0014 宮城県仙台市青葉区本町2-3-10 仙台本町ビル</p>
+    </div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title">
+        <h2>IT投資への３つの提案<span class="ja"></span><span class="en">SERVICE&amp;PRODUCTS</span></h2>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <!-- service -->
+        <div id="service">
+          <h3>ITをもっと活用していただきたい</h3>
+          <p><font color="#ff0000">私たちはGoogle や Microsoft、Facebookのような技術力はもっていません</font>。ただ、とは言え、私たちがお役に立てるケースは非常に多いと考えています。例えば、中小企業のちょっとした事務作業。どこの職場でも何らかのシステムを使っているのは当然かもしれませんが、ちょっとした作業にわざわざシステム導入はされていないことが多いようです。そのようなところに私たちが支援できる余地があります。<br>
+          弊社が関わった事例を挙げますと…</p>
+          <blockquote>
+          <h4>１．２週間かかっていた作業が半日で終わるようになった</h4>
+          </blockquote>
+          <blockquote>　私の大学同期のSE（女性）が結婚退職し、その後パートで下着メーカーの事務職を始めたのですが、<br>
+          　数人がかりで２週間掛かる作業があったそうです。その同期から私に「Excelマクロを教えてほしい」<br>
+          　と連絡がありました。どういったことをしたいのか概要を聞いて、ざっくりしたサンプルを作って提供<br>
+          　し、あとは同期が細かいところを調整しながら完成させました。<br>
+          　すると、<font color="#ff0000">これまで２週間掛かっていた事務作業が、半日で終わるようになった</font>、とのことです。<img src="pg_effect1.png" width="602" height="160" border="0"></blockquote>
+          <blockquote>
+          <h4>２．2日かかっていた作業がボタンワンクリックで完了</h4>
+          </blockquote>
+          <blockquote>　とある企業で、毎月月初に全社会議用の資料を作成していたのですが、拠点が多く、実績資料作成に<br>
+          　<font color="#ff0000">ほぼ徹夜で２日掛かっていた</font>そうです。そこにAccessでデータ入力アプリケーションを提供したとこ<br>
+          　ろ、日々のデータ入力をコマメに行うことで、<font color="#ff0000">ボタンワンクリックで資料を作成</font>できるようになりま<br>
+          　した。<img src="pg_effect2.png" width="569" height="141" border="0"></blockquote>
+          <blockquote>
+          <h4>３．入力したデータを使ってサービス品質向上</h4>
+          </blockquote>
+          <blockquote>　あるダンススクールの会員名簿をAccessで作ったことがあります。システム導入により次のように<br>
+          　サービス品質が向上しました。<br>
+          　○システム導入前はレッスンの時間変更が発生しても生徒に連絡する手段がなかったが、<br>
+          　　システム導入により、<font color="#ff0000">過去３ヶ月以内に受講したことのある生徒を抽出しメール通知</font>が行える<br>
+          　　ようになった。<br>
+          　○会員証にバーコード付与することにより、<font color="#ff0000">受付時に会員を待たせなくなった</font><img src="pg_effect3.png" width="592" height="160" border="0"></blockquote>
+          <p>上記はほんの一例ですが、<font color="#ff0000">日々の作業に追われている方を楽にしたい</font>、というのが私たちユーザーアプリケーション事業部の根底にある思想です。</p>
+          <h3>システム開発にあたってのよく言われる問題とその原因</h3>
+          <p>システム開発に関してよく言われるのが、<br>
+          ・高いお金を掛けたのに、<font color="#ff0000">思っていたものと違う</font>システムが出来上がり、使いにくい。<br>
+          ・<font color="#ff0000">ちょっとした修正なのに驚くような見積もり</font>が提示された<br>
+          といった問題です。<br>
+          <br>
+          システム開発当初、ユーザー企業と開発企業が設計を行う時は、ユーザー側は最終的にどういったシステムになるのかイメージが湧かず、実際に仕上がった時に初めて、思っていたものと違う、と気付くのです。<br>
+          <br>
+          これは、システム設計担当者の技量によるものもありますが、そもそも次のように利害が対立するもの同士である以上、避けては通れない道なのです。<br>
+          <br>
+          ユーザー企業　→　発注時には見えていなかった機能も<font color="#ff0000">触ってみたら必要だと気付く</font><br>
+          開発企業　→　受注時に想定した作業以外を行うと利益が減るので、<font color="#ff0000">なるべく想定外の事はしたくない</font></p>
+          <table border="0">
+            <tbody>
+              <tr>
+                <td>&nbsp;<a href="https://www.amazon.co.jp/dp/4774189251" target="_blank"><img src="素材/51YKHxkX4jL._SX350_BO1,204,203,200_.jpg" width="287" height="408" border="0"></a></td>
+                <td width="206">非常にオススメできる内容です。「システム開発のプロに全部任せておけば、満足行くシステムが出来るんでしょ？」「自分はシステム開発のプロではないのであまり難しいことを言われても分からない」と線を引いてしまうお客様が少なくない印象ですが、システム開発は「家」や「マンション」のようにパンフレットで仕様を決められるものではありません。</td>
+              </tr>
+            </tbody>
+          </table>
+          <h3>スクラッチ開発による弊害　→　イニシャルコスト、リスク</h3>
+          <p>また、昔ながらのスクラッチ開発ではどのようなご要望にも応えられる一方開発コストが重くのしかかります。<br>
+          全社的なシステムを導入しようとすると1000万～2000万掛かってしまい、予算の少ない中小企業ではとても手が出ないものとなっています。<br>
+          ITを使った経営を行い、効率化を図らなければならないのに、高い予算を掛けて、希望したものと違ったものが出来上がり、ユーザー企業、開発企業で神経をすり減らす様なやり取りをし、、、こういった事をするために、我々システム・エンジニアは日々技術を習得しているのでしょうか？<img src="imintrouble.png" border="0" width="633" height="316"><br>
+          </p>
+          <h3>我々の答え → ３つの開発スタイル</h3>
+          <p>そういったIT業界ではありますが、弊社は「ユーザー企業様の満足度を上げたい」「納得の行くシステム開発を提供したい」と考えています。まだまだ弊社の主力ビジネスモデルとはなっておりませんが、<font color="#ff0000">３つの開発スタイルをご提案</font>します。 </p>
+          <table border="1">
+            <tbody>
+              <tr>
+                <th width="202">&nbsp;パターン</th>
+                <th width="380">概要&nbsp;</th>
+              </tr>
+              <tr>
+                <td width="202">&nbsp;１．ボトムアップ型<br>
+                　（＝コンサル支援型）</td>
+                <td width="380">小規模向け<br>
+                ・サイボウズ社 kintoneなら、開発なしでシステム構築が可能です。<br>
+                ・御社システム担当者様がメイン作業者になっていただきます。<br>
+                　弊社はサポートに徹します。</td>
+              </tr>
+              <tr>
+                <td width="202">&nbsp;２．アジャイル型<br>
+                　（＝定額支援型）</td>
+                <td width="380">&nbsp;小～中規模向け<br>
+                ・御社専任技術者が毎月定額で御社システムをアップデートします。<br>
+                　→<a href="komon.html">顧問エンジニア</a></td>
+              </tr>
+              <tr>
+                <td width="202">&nbsp;３．ウォーターフォール型<br>
+                　（＝同じじゃない？と思わせつつ、超高速開発）</td>
+                <td width="380">小～中規模向け<br>
+                &nbsp;・弊社が指定する条件で（プログラミング言語、運用環境）<br>
+                　システム開発をさせていただければ、高い生産性で構築できます。</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>大規模向け<br>
+          大規模向けに最適な解はまだ見いだせていないため、通常の開発方式を取っております。なぜならシステム開発という行為は、お客様、プロジェクトごとに毎回変化するものだからです。
+どんなに気をつけていても、必ずと言っていいほど、トラブルは発生します。予算を投入すれば解決するものが大半ですが、
+お客様のビジネスが成功するには、開発コストを抑えることも重要なポイントとなるので、開発コストを抑えるために我々は高い技術力を追求します。<BR>
+          </p>
+          <hr>
+          <div id="pagetop"><a href="#hpb-container" title="このページの先頭へ">このページの先頭へ</a></div>
+        </div>
+        <!-- service end -->
+      </div>
+      <!-- main end -->
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav">
+      <h3 class="hpb-c-index">ナビゲーション</h3>
+      <ul>
+        <li id="nav-toppage"><a href="index.html"><span class="ja">トップページ</span><span class="en">TOP&nbsp;PAGE</span></a> 
+        <li id="nav-concept"><a href="about.html"><span class="ja">企業概要</span><span class="en">CONCEPT</span></a> 
+        <li id="nav-service"><a href="business.html"><span class="ja">３つの提案</span><span class="en">SERVICE&amp;PRODUCTS</span></a> 
+        <li id="nav-company"><a href="xrad.html"><span class="ja">超高速開発</span><span class="en">COMPANY</span></a> 
+        <li id="nav-senzoku"><a href="komon.html"><span class="ja">顧問エンジニア</span><span class="en">COMPANY</span></a> 
+        <li id="nav-bi"><a href="bi.html"><span class="ja">データの可視化</span><span class="en">VISUALIZE</span></a> 
+        <li id="nav-achieve"><a href="achievement.html"><span class="ja">実績</span><span class="en">ACHIEVEMENT</span></a> 
+        <li id="nav-other"><a href="partner.html"><span class="ja">その他</span><span class="en">ANYTHING-OK</span></a> 
+      </ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <h3 class="hpb-c-index">バナースペース</h3>
+      <div id="banner">
+        <ul>
+          <li><a id="banner-blog" href="shukatu.html" target="_self">就活ポータルSaaS</a> 
+          <li><a href="xrad.html" id="banner-recruit">超高速開発</a> 
+          <li><a href="komon.html" id="banner-exclusive">顧問エンジニア</a> 
+          <li><a href="bi.html" id="banner-access">アクセス</a> <!--
+          <li><a href="http://probsc-ua.sblo.jp/" target="_blank" id="banner-blog">ブログ</a> 
+-->
+        </ul>
+      </div>
+      <div id="companyinfo">
+        <h3>株式会社ナナイロ</h3>
+        <p>〒980-0014<br>
+        宮城県仙台市青葉区本町2-3-10 <br>
+        仙台本町ビル</p>
+        <p>TEL 022-200-9006<br>
+        FAX 022-721-3503<br>
+        URL <a href="http://probsc.jp" target="_blank">http://nanairo-inc.jp</a><br>
+        Mail <br>
+        ishimori_yuzuru☆nanairo-inc.jp<br>
+        担当 石森</p>
+      </div>
+    </div>
+    <!-- aside end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerMain">
+      <p>copyright&copy;2019&nbsp;nanairo inc.&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+    </div>
+    <div id="hpb-footerExtra1">
+      <h3 class="hpb-c-index">サブナビゲーション</h3>
+      <ul>
+        <li><a href="http://nanairo-inc.jp/privacy/" target="_blank">個人情報保護方針</a> 
+        <li><a href="recruit.html">求める人物像</a> 
+      </ul>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<script type="text/javascript" src="navigation.js">hpb-navigation-js</script> </body>
+</html>

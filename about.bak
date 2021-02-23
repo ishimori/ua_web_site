@@ -1,0 +1,288 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 19.0.12.0 for Windows">
+<meta name="Keywords" content="AWS,Vertica,Oracle ADW,仙台　受託開発,Web Performer">
+<title>事業部概要 - 株式会社ナナイロ</title>
+<link rel="stylesheet" href="hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="container_1L_2c_top.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="main_1L_2c.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="user.css" type="text/css" id="hpbuser">
+<script type="text/javascript" src="jquery.min.js"><!-- hpbiptitle jQuery library --></script> <script type="text/javascript" src="move-mainnav.js">hpb-move-mainnav-js</script>
+<link rel="shortcut icon" href="favicon.ico">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41005437-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body id="hpb-template-01-12-02" class="hpb-layoutset-02 hpb-responsive">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1>株式会社ナナイロはBIシステム構築、データ分析、Excel, Access, 超高速開発を得意分野とする仙台のソフトウェア企業です。</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="index.html">株式会社ナナイロ</a></div>
+    <div id="hpb-headerExtra1">
+      <p class="tel"><span>TEL. </span>022-200-9006</p>
+      <p class="address">〒980-0014 宮城県仙台市青葉区本町2-3-10 仙台本町ビル</p>
+    </div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title">
+        <h2><span class="ja">事業部概要</span><span class="en">CONCEPT</span></h2>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <!-- concept -->
+        <div id="concept">
+          <h3>ナナイロは事業部制</h3>
+          <p>ナナイロでは事業部制を採用しており、各事業部での独立採算方式となっております。<br>
+          各事業部長の方針に従って事業部は運営され、それぞれに特色のある事業展開を行っております。<br>
+          自分のビジネスモデルのイメージが描ければ、やる気次第で自分の事業部を持つことが可能な文化です。<br>
+          <br>
+          <br>
+          <img src="https://nanairo-inc.jp/media/images/company/organization_02.svg" border="0"></p>
+
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+          <hr>
+          <h3>ユーザーアプリケーション事業部</h3>
+          <p>ユーザーアプリケーション事業部はデータベースを中核にした開発、ツールを使った開発を行っています。</p>
+          
+          <p>ユーザーアプリケーション事業部はデータ入力～活用までの全てを提供します。</p>
+          <p><img src="ua-overview.png" width="658" height="287" border="0"></p>
+          <table border="1">
+            <tbody>
+              <tr>
+                <th width="119">&nbsp;カテゴリ</th>
+                <th width="294">&nbsp;技術分野</th>
+                <th width="140">適用範囲</th>
+              </tr>
+              <tr>
+                <td width="119">&nbsp;データベース</td>
+                <td width="294">RDBMS&nbsp;- Oracle/SQLServer/MySQL<br>
+                DWH - Vertica/Oracle Autonomouse Datawarehouse</td>
+                <td width="140">DBチューニング<br>
+                DWH構築</td>
+              </tr>
+              <tr>
+                <td width="119">&nbsp;ユーザー向けツール</td>
+                <td width="294">Excel / Access / Filemaker<br>
+                ※Excelによるデータ分析をテーマに県立大学にて<br>
+                　非常勤講師経験有</td>
+                <td width="140">小規模アプリケーション構築&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="119">&nbsp;BIツール</td>
+                <td width="294">Dr.Sum/Cognos/Oracle/Qlikview/WebFOCUS</td>
+                <td width="140">大規模&nbsp;BIシステム構築</td>
+              </tr>
+              <tr>
+                <td>&nbsp;スマホアプリ</td>
+                <td>Monaca, Xamarin&nbsp;</td>
+                <td>どちらかと言うと<br>
+                業務向け</td>
+              </tr>
+              <tr>
+                <td>&nbsp;ロボット＋AI</td>
+                <td><s>ロボホン（シャープ社 認定開発パートナー）</s><br>
+                IBM Watson</td>
+                <td>&nbsp;消費者向けアプリ</td>
+              </tr>
+              <tr>
+                <td>&nbsp;各種スクラッチ開発</td>
+                <td>php<a href="http://quartett.me/" target="_blank">(Quartett</a>(※)/cakePHP)/React.js/.NET/Java<br>
+                WebPerformer/kintone</td>
+                <td>&nbsp;小～大規模開発</td>
+              </tr>
+              <tr>
+                <td>&nbsp;昨今の動き</td>
+                <td><font color="#ff0000">Oracle Cloud&nbsp;を高く評価しています。</font><br>
+                ・AWSと比べてのコスト安<br>
+                ・<a href="https://apex.oracle.com/pls/apex/f?p=47718:100::::::" target="_blank">APEX</a>による超高生産性Webアプリ開発</td>
+                <td>クラウドでの<br>
+                &nbsp;小～大規模開発<br>
+                BI/DWHシステム</td>
+              </tr>
+            </tbody>
+          </table>
+	<BR>
+          <h3>ユーザーアプリケーション事業部(UA)の特徴</h3>
+          <p>UA部はいくつかの特徴があります。<br>
+          １．契約スタイルが様々あります。<br>
+          ２．顧客が非常に多いです。<br>
+          ３．ナナイロのどの他事業部よりも大規模化を目指しています。<br>
+          <br>
+          <br>
+          <u>１．契約スタイルについて</u><br>
+          <br>
+          　・派遣契約（客先常駐）<br>
+          　　ナナイロ単独では経験しづらい、比較的規模が大きな正攻法のシステム開発を客先にて経験させて<br>
+          　　いただいています。社内だけではどうしても視野が狭まりがちですが、外部の方と一緒に仕事を<br>
+          　　することで、様々な経験を積ませていただいています。<br>
+          <br>
+          　・受託開発（請負開発）/ 準委任契約（リモート開発）<br>
+          　　小規模～中規模の開発（１人月未満～１０人月程度）を数人体制で回しております。<br>
+          　　仙台のみならず、全国各地からお声がけいただいて開発を行っています。<br>
+          　　（北海道、東京近辺、千葉鴨川、岐阜、熊本、新潟）<br>
+          <br>
+          　・自社開発（投資開発）<br>
+          　　まだまだ小規模ですが、投資としての開発を行っています。<br>
+          　　見守りロボット、社内業務改善（販売管理、給与明細、グループウェア）の実績があります。<br>
+          <br>
+          <br>
+          <u>２．顧客の多さについて</u><br>
+          <br>
+          　これまで支援させていただいたどのお客様からも支持をいただけているため、<br>
+          　ナナイロ側から積極的に営業行為を行わなくとも、定期的にシステム開発の相談をいただいております。<br>
+          　また、事業部の方針として、常に新規開拓、を心がけているため、徐々に新しいお付き合いをさせて<br>
+          　いただくお客様が増えています。<br>
+          <br>
+          　特定の顧客に依存することなく、どのお客様にも真摯に向き合うことで、相互に程よい緊張感が生まれ、<br>
+          　どのお客様とも対等の立場でシステム提案をさせていただいております。<br>
+          <img src="image4.jpg" width="284" height="271" border="0"><br>
+          　　　　　　↑2019年の顧客別売上<br>
+          <br>
+          <u>３．どの事業部よりも大規模化を目指す</u><br>
+          <br>
+          　2020.5時点では、全体が100名弱、全13事業部です。平均すると各事業部は7～10名になります。<br>
+          　現在のUAは14名。（訳あって一緒にやってる他事業部等と合わせると23名）<br>
+          　採用のペースにもよりますが、UA部では5年程度で40名まで増員することを計画しています。<br>
+          <br>
+          　◯40名になるとできること<br>
+          　・年間を通して２～3名程度は売上ゼロでも事業部が維持出来るため、大胆な投資が可能になります。<br>
+          　　今は小規模な社内システム程度ですが、いずれドーンと行きます！<br>
+          　・経験を積んだSEが増えることで、大規模案件もこなせるようになります。<br>
+          　　→より魅力的な案件が立ち上がることを期待しています。<br>
+          &nbsp;<img src="image10.jpg" width="696" height="388" border="0"><br>
+          <br>
+          </P>
+
+          <h3>黒歴史の数々（笑）</h3>
+          <p>失敗の連続ではありますが、いくつかの持ち出し開発を行っています。仙台型の企業ではチャレンジすらできない体質の会社も少なくないので、チャレンジできることは非常に恵まれている、と考えています。<br>
+          <font color="#ff0000">成功するまで続ける</font>覚悟です。 </P>
+          <table border="1">
+            <tbody>
+              <tr>
+                <th width="145">アプリ名</th>
+                <th width="435">概要&nbsp;</th>
+              </tr>
+              <tr>
+                <td width="145"><a href="http://nanairo-inc.sakura.tv/ua/other.html" target="_blank">&nbsp;電子地域連絡ノート</a></td>
+                <td width="435">・全く出来ていなかったのに、もう出来ているんでしょ？と大手SIerさんから引き合いがあり、&nbsp;開発が始まったWebアプリ。<br>
+                ・大変ご迷惑もお掛けしてしまいましたが、ある医師会での導入コンペで検討いただくところまでは行きました。（その後は力尽きました）</td>
+              </tr>
+              <tr>
+                <td width="145"><a href="https://mimamori.nanairo-inc.jp/" target="_blank">&nbsp;見守りアプリ</a></td>
+                <td width="435">・医療生協様から相談があり、開発が始まったシステム。<br>
+                ・T芝さんの未発表のロボットをお借りしたり、シャープロボホンの開発パートナーになったり、紆余曲折。<br>
+                ・北海道の介護事業所様での試験導入検討まで漕ぎ着けましたが、千葉、神戸の事業所様からは完全にダメ出しされ、力尽きました…&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="145"><a href="pdf/hanbaikanri.pdf" target="_blank">&nbsp;社内販売管理システム</a></td>
+                <td width="435">WebPerformerを導入してしまい、その勢いで開発した社内システム。<br>
+                メンテナンス出来るのが事業部長だけになってしまい、扱いに困っています…<br>
+                他の社員にphp等で作り直してほしい…</td>
+              </tr>
+              <tr>
+                <td width="145">&nbsp;給与明細確認アプリ</td>
+                <td width="435">積極的な事業部員に作成してもらった&nbsp;Webアプリ第１弾。<br>
+                会社からは、初期開発コストはもらわず、毎月使用料をもらう作戦。<br>
+                ※会社が潰れない限り、延々とお金が入る作戦。チャリーン。</td>
+              </tr>
+              <tr>
+                <td width="145">&nbsp;グループウェア<br>
+                （nanairoware)</td>
+                <td width="435">・PRO&amp;BSC時代から、WS部開発の作業報告システムを利用しておりましたが、誰もメンテナンス出来ない、という状況を脱するためにも、<s>給与明細確認アプリの毎月チャリーンに味もしめたし</s>、開発実施。<br>
+                ・新人育成を兼ねた開発計画でしたが、気づいたら先輩社員が一人でどんどん作る事態に。<br>
+                ・作業報告＋勤怠管理機能の実装で一段落したが、タスク管理と収支管理機能も追加すべく、2020/5時点で開発継続中。<font color="#ff0000">期待大</font></td>
+              </tr>
+            </tbody>
+          </table>
+          <p><br>
+          </P>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+
+        </div>
+        <!-- concept end -->
+      </div>
+      <!-- main end -->
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav">
+      <h3 class="hpb-c-index">ナビゲーション</h3>
+      <ul>
+        <li id="nav-toppage"><a href="index.html"><span class="ja">トップページ</span><span class="en">TOP&nbsp;PAGE</span></a> 
+        <li id="nav-concept"><a href="about.html"><span class="ja">事業部概要</span><span class="en">CONCEPT</span></a> 
+        <li id="nav-service"><a href="business.html"><span class="ja">３つの提案</span><span class="en">Proposal</span></a> 
+        <li id="nav-bi"><a href="bi.html"><span class="ja">データの可視化</span><span class="en">VISUALIZE</span></a> 
+        <li id="nav-company"><a href="groupware.html"><span class="ja">グループウェア</span><span class="en">GROUPWARE</span></a> 
+        <li id="nav-senzoku"><a href="komon.html"><span class="ja">顧問エンジニア</span><span class="en">engineer</span></a> 
+        <li id="nav-achieve"><a href="achievement.html"><span class="ja">実績</span><span class="en">ACHIEVEMENT</span></a> 
+        <li id="nav-other"><a href="partner.html"><span class="ja">その他</span><span class="en">ANYTHING-OK</span></a> 
+      </ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <h3 class="hpb-c-index">バナースペース</h3>
+      <div id="banner">
+        <ul>
+          <li><a id="banner-blog" href="shukatu.html" target="_self">就活ポータルSaaS</a> 
+          <li><a href="xrad.html" id="banner-recruit">超高速開発</a> 
+          <li><a href="komon.html" id="banner-exclusive">顧問エンジニア</a> 
+          <li><a href="bi.html" id="banner-access">アクセス</a> <!--
+          <li><a href="http://probsc-ua.sblo.jp/" target="_blank" id="banner-blog">ブログ</a> 
+-->
+        </ul>
+      </div>
+      <div id="companyinfo">
+        <h3>株式会社ナナイロ</h3>
+        <p>〒980-0014<br>
+        宮城県仙台市青葉区本町2-3-10 <br>
+        仙台本町ビル</p>
+        <p>TEL 022-200-9006<br>
+        FAX 022-721-3503<br>
+        URL <a href="http://nanairo-inc.jp" target="_blank">http://nanairo-inc.jp</a><br>
+        採用サイト <a href="https://nanairo-inc.jp/graduate_recruitment" target="_blank">https://nanairo-inc.jp/graduate_recruitment</a><br>
+        Mail <br>
+        ishimori_yuzuru☆nanairo-inc.jp<br>
+        担当 石森</p>
+      </div>
+    </div>
+    <!-- aside end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerMain">
+      <p>copyright&copy;2020&nbsp;nanairo inc.&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+    </div>
+    <div id="hpb-footerExtra1">
+      <h3 class="hpb-c-index">サブナビゲーション</h3>
+      <ul>
+        <li><a href="http://nanairo-inc.jp/privacy/" target="_blank">個人情報保護方針</a> 
+        <li><a href="recruit.html">求める人物像</a> 
+        <li><a href="https://nanairo-inc.jp/graduate_recruitment/" target="_blank">学生、第2新卒の方へ</a> 
+      </ul>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<script type="text/javascript" src="navigation.js">hpb-navigation-js</script> </body>
+</html>

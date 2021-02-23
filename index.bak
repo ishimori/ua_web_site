@@ -1,0 +1,209 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 19.0.12.0 for Windows">
+<meta name="Keywords" content="business intelligence,web performer,kintone">
+<title>株式会社ナナイロ</title>
+<link rel="stylesheet" href="hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="container_1L_2c_top.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="main_1L_2c.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="user.css" type="text/css" id="hpbuser">
+<script type="text/javascript" src="jquery.min.js"><!-- hpbiptitle jQuery library --></script> <script type="text/javascript" src="move-mainnav.js">hpb-move-mainnav-js</script>
+<link rel="shortcut icon" href="favicon.ico">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41005437-2', 'auto');
+  ga('send', 'pageview');
+
+</script> </head>
+<body id="hpb-template-01-12-02" class="hpb-layoutset-01 hpb-responsive">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1>株式会社ナナイロはBIシステム構築、データ分析、Excel, Access, 超高速開発を得意分野とする仙台のソフトウェア企業です。</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="index.html">株式会社ナナイロ</a></div>
+    <div id="hpb-headerExtra1">
+      <p class="tel"><span>TEL. </span>022-200-9006</p>
+      <p class="address">〒980-0014 宮城県仙台市青葉区本町2-3-10 仙台本町ビル</p>
+    </div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title" class="hpb-top-image">
+        <h2>BIシステム構築、データ活用、スマホアプリ、Web Performerにより、御社のIT活用を支援します</h2>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <!-- toppage -->
+        <div id="toppage">
+          <p class="large">このサイトは株式会社ナナイロユーザーアプリケーション事業部のサイトです。<br>
+          一試行的な内容を含む為、価格、サービス内容に関して実際とは異なる可能性がありますが、ご了承下さい。</p>
+          <div id="toppage-topics">
+            <h3>ナナイロ・ユーザーアプリケーション事業部が得意とする分野</h3>
+            <ul>
+              <li>データベースを軸にしたシステム構築 <br>
+              　BIツール開発（DrSum/Cognos/Microsoft/Oracle/WebFOCUS/QlikView）<br>
+              　データベース構築(Oracle/SQLServer/MySQL/vectorwise/infiniDB/vertica)<br>
+              　その他ツール (DataSpider/DrSumConnect/ExcelVBA/Access/Filemaker)<li>Webアプリケーション開発全般<br>
+              　cakePHP, React.js, WebPerformer, kintone, Oracle APEX<li>UI/UX/デザイン<br>
+              　　新規/既存Webアプリのデザイン改善 をワンストップで提供します
+		</ul>
+            <hr>
+          </div>
+          <div id="toppage-news">
+            <h3><span class="en">NEWS</span><span class="ja">新着情報</span></h3>
+            <dl>
+              <dt>2020年10月15日 
+              <dd><a href="https://nanairo-inc.jp/graduate_recruitment/" target="_blank">新卒向けサイト公開しました。</a><img src="img_n059.gif" width="31" height="11" border="0">
+              <dt>2020年5月5日 
+              <dd>全般的にコンテンツ見直ししました。
+              <dt>2019年7月23日 
+              <dd><a href="about.html">企業概要</a>加筆しました。
+              <dt>2019年2月11日 
+              <dd><a href="shukatu.html">人事コムページ</a>追加しました。<BR>
+              就活ポータル運営に特化したSaasのご紹介
+              <dt>2018年6月1日 
+              <dd><a href="https://mimamori.nanairo-inc.jp" target="_blank">高齢者見守りサービス</a><BR>
+              Sharp ロボホンとIBM Watsonを組み合わせた見守りサービス始めました
+              <dt>2017年12月22日 
+              <dd><a href="pdf/wp_jirei_02.pdf" target="_blank">WebPerformer事例2件目</a><BR>
+              弊社で一番大きいWebPerformer案件です。 
+              <dt>2017年12月13日 
+              <dd><a href="recruit.html">UA部の求める人物像</a><BR>
+              こういう方に来ていただきたい！
+              <dt>2017年6月11日 
+              <dd><a href="blog/0905.html">WebPerformer v2.1 新機能 自動生成ドキュメントサンプル</a><BR>
+              Web Performer 新バージョンリリースに伴い、新機能情報を発信していきます。
+              <dt>2017年5月23日 
+              <dd><a href="https://nanairo-inc.jp/news/detail---id-19.html">本社移転のお知らせ</a>
+              <dt>2017年4月25日 
+              <dd><a href="https://nanairo-inc.jp/news/detail---id-17.html">仙台市四方よし企業大賞　優秀賞受賞いたしました。</a>
+              <dt>2017年4月14日 
+              <dd><a href="achievement.html">開発実績一覧ページを更新しました。</a>
+              <dt>2016年10月1日 
+              <dd><a href="achievement.html">開発実績一覧ページを追加しました。</a>
+              <dt>2016年10月1日 
+              <dd><a href="http://nanairo-inc.jp/news/detail---id-9.html">PRO&amp;BSCは合併を行い、社名変更しました。</a><BR>
+              株式会社PRO&amp;BSCと株式会社Sunnydayが2016年10月1日をもって合併をし「株式会社ナナイロ」が発足いたしました。 
+	      <dt>2016年7月6日 
+              <dd><a href="blog/0904.html">WebPerformer用開発ツール公開しました</a><BR>
+              Servletで作成したプログラムで、モデル定義ファイルを自動生成します 。<dt>2016年6月1日 
+              <dd><a href="about.html">企業概要更新しました。</a><BR>2016/6よりビジネスコンサルティングサービス事業部が立ち上がります。 
+              <dt>2016年4月22日 
+              <dd><a href="pdf/20160422seminar.pdf" target="_blank">4月22日持続化補助金セミナーを開催します。</a>
+	      <!-- <img src="img_n059.gif" width="31" height="11" border="0">  -->
+              <dt>2016年3月21日 
+              <dd><a href="about.html">企業概要更新しました。</a><BR>2016/4よりデータベースソリューション事業部が立ち上がります。 
+              
+              <dt>2016年3月11日 
+              
+              <dd><a href="blog/1001.html">Developer Meeting参加報告アップしました。 </a> 
+              
+              <dt>2016年2月27日 
+              
+              <dd><a href="xrad.html">事例を追加しました。(下の方にあります。)</a> 
+              
+              <dt>2015年11月21日 
+              
+              <dd><a href="blog/wp.html">WebPerformer機能紹介のページを試行的に追加しました。</a> 
+              
+              
+              <dt>2015年10月16日 
+              
+              
+              <dd>コンテンツを一新しました。旧コンテンツは<a href="http://probsc.sakura.ne.jp/ua_old/" target="_blank">こちら</a> 
+              
+              
+              <dt>2015年3月25日 
+              
+              
+              <dd>ユーザーアプリケーション事業部のサイトをオープンしました。 
+            
+            
+            </dl>
+          </div>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+        </div>
+        <!-- toppage end -->
+      </div>
+      <!-- main end -->
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav">
+      <h3 class="hpb-c-index">ナビゲーション</h3>
+      <ul>
+        <li id="nav-toppage"><a href="index.html"><span class="ja">トップページ</span><span class="en">TOP&nbsp;PAGE</span></a> 
+        <li id="nav-concept"><a href="about.html"><span class="ja">事業部概要</span><span class="en">CONCEPT</span></a> 
+        <li id="nav-service"><a href="business.html"><span class="ja">３つの提案</span><span class="en">Proposal</span></a> 
+        <li id="nav-bi"><a href="bi.html"><span class="ja">データの可視化</span><span class="en">VISUALIZE</span></a> 
+        <li id="nav-company"><a href="groupware.html"><span class="ja">グループウェア</span><span class="en">GROUPWARE</span></a> 
+        <li id="nav-senzoku"><a href="komon.html"><span class="ja">顧問エンジニア</span><span class="en">engineer</span></a> 
+        <li id="nav-achieve"><a href="achievement.html"><span class="ja">実績</span><span class="en">ACHIEVEMENT</span></a> 
+        <li id="nav-other"><a href="partner.html"><span class="ja">その他</span><span class="en">ANYTHING-OK</span></a> 
+      </ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <h3 class="hpb-c-index">バナースペース</h3>
+      <div id="banner">
+        <ul>
+          <li><a id="banner-blog" href="shukatu.html" target="_self">就活ポータルSaaS</a> 
+          <li><a href="xrad.html" id="banner-recruit">超高速開発</a> 
+          <li><a href="komon.html" id="banner-exclusive">顧問エンジニア</a> 
+          <li><a href="bi.html" id="banner-access">アクセス</a> <!--
+          <li><a href="http://probsc-ua.sblo.jp/" target="_blank" id="banner-blog">ブログ</a> 
+-->
+        </ul>
+      </div>
+      <div id="companyinfo">
+        <h3>株式会社ナナイロ</h3>
+        <p>〒980-0014<br>
+        宮城県仙台市青葉区本町2-3-10 <br>
+        仙台本町ビル</p>
+        <p>TEL 022-200-9006<br>
+        FAX 022-721-3503<br>
+        URL <a href="http://nanairo-inc.jp" target="_blank">http://nanairo-inc.jp</a><br>
+        採用サイト <a href="https://nanairo-inc.jp/graduate_recruitment" target="_blank">https://nanairo-inc.jp/graduate_recruitment</a><br>
+        Mail <br>
+        ishimori_yuzuru☆nanairo-inc.jp<br>
+        担当 石森</p>
+      </div>
+    </div>
+    <!-- aside end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerMain">
+      <p>copyright&copy;2020&nbsp;nanairo inc.&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+    </div>
+    <div id="hpb-footerExtra1">
+      <h3 class="hpb-c-index">サブナビゲーション</h3>
+      <ul>
+        <li><a href="http://nanairo-inc.jp/privacy/" target="_blank">個人情報保護方針</a> 
+        <li><a href="recruit.html">求める人物像</a> 
+        <li><a href="https://nanairo-inc.jp/graduate_recruitment/" target="_blank">学生、第2新卒の方へ</a> 
+      </ul>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<!-- container end --><script type="text/javascript" src="navigation.js">hpb-navigation-js</script>
+
+</body>
+</html>

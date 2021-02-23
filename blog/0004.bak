@@ -1,0 +1,208 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 19.0.8.0 for Windows">
+<title>メール送信</title>
+<link rel="stylesheet" href="../hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="../container_1L_2c_top.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="../main_1L_2c.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="../user.css" type="text/css" id="hpbuser">
+<script type="text/javascript" src="../jquery.min.js"><!-- hpbiptitle jQuery library --></script> <script type="text/javascript" src="../move-mainnav.js">hpb-move-mainnav-js</script> 
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41005437-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body id="hpb-template-01-12-02" class="hpb-layoutset-02 hpb-responsive">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1>株式会社ナナイロはBIシステム構築、データ分析、Excel, Access, 超高速開発を得意分野とする仙台のソフトウェア企業です。</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="../index.html">株式会社ナナイロ</a></div>
+    <div id="hpb-headerExtra1">
+      <p class="tel"><span>TEL. </span>022-200-9006</p>
+      <p class="address">〒980-0014 宮城県仙台市青葉区本町２－６－３５</p>
+    </div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title">
+        <h2><span class="ja">0004 メール送信機能</span><span class="en">HEADLINE</span></h2>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <div class="hpb-parts-cnt-01 hpb-parts-cnt-style clearfix">
+          登録と同時にメールを送信します。
+          <br>データ更新はビジネスプロセスで実装します。<br>
+          ビジネスプロセス内でNOTIFYコマンドにより、メール送信します。<h3>ビジネスプロセス</h3>
+          <p>実装イメージ<br>
+          メール通知する」にチェックして更新ボタンが押されたら、更新と同時にメール送信します。<img src="0004/image.jpg" width="618" height="333" border="0"></p>
+          <p>          更新ボタンよりビジネスプロセスを呼び出します。&lt;br&gt;<br>
+          加工式: BP_I215_PROJECT_REPORT:'UPD',MAIL_TO, C_MAIL,W_UPDATE_TANTO<img src="0004/image1.jpg" width="582" height="398" border="0"><br>
+          </p>
+          <p>制御コード：INVOKE でデータ更新のビジネスプロセスを呼び出しています。<br>
+          制御コード：NOTIFY がメール送信箇所です。<img src="0004/image2.jpg" width="672" height="263" border="0"><br>
+          NOTIFYコマンドのパラメータは<br>
+          送信元、送信先、件名、本文　です。<br>
+          _ARG_.xxx はビジネスプロセスへのパラメータを表し、<br>
+          LS() はOS改行文字、<br>
+          REP.XXX はビジネスプロセスに紐付けられているモデル、<br>
+          CREATEURL関数は この画面への直接リンクを表現する関数になります。<br>
+          <img src="0004/image3.jpg" width="614" height="518" border="0"></p>
+          <h3>WebPerformer設定ファイル</h3>
+          <p>eclipse/plugins/jp.co.canon_soft.wp.generator.ui_2.0.0/model/JavaWebApp/WEB-INF/src/wpapp.confをsrc/JavaWebApp/&lt;APPLICATION_NAME&gt;/WEB-INF/src/wpapp.conf
+          にコピーします。</p>
+          <table border="1">
+            <tbody>
+              <tr>
+                <td width="584">&nbsp;値の書換え<br>
+          mail.smtp.host=probsc.sakura.ne.jp　← SMTPメールサーバー<br>
+          <br>
+          行追加<br>
+                mail.session.jndi=<font color="#ff0000">mail/Session</font>　← 任意の名前でOK<br>
+          mail.session.apply=true</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>補足しておくと、GMAILから送信出来ないか、2～3時間粘りましたが、<br>
+          今のところ成功していません。うまく設定出来た方、ご一報下さい…</p>
+
+          <p><font color="#ff0000">2017.1.20 追記)</font><br>
+「G Suite SMTPリレー」という機能を使うとGMailからメール送信出来ました。<br>
+参照 → https://support.google.com/a/answer/176600?hl=ja<br>
+ポイント<br>
+・SMTPサーバーに smtp-relay.gmail.com を指定する<br>
+          ・server.xml に mail.smtp.auth=&quot;false&quot; とする<img src="0004/image4.jpg" width="577" height="492" border="0"></p>
+
+
+          <h3>TOMCAT設定ファイル</h3>
+          <p>&lt;TOMCAT_HOME&gt;/conf/以下のserver.xml, context.xmlに記述します。<br>
+          ※値を変更した場合はTomcat再起動が必要です。<br>
+          ※TOMCAT7で動作確認</p>
+          　context.xml
+          <table border="1">
+            <tbody>
+              <tr>
+                <td width="566">&nbsp;&lt;context&gt;<br>
+                &lt;ResourceLink global=&quot;<font color="#ff0000">mail/Session</font>&quot; name=&quot;mail/Session&quot; type=&quot;javax.mail.Session&quot;/&gt;<br>
+                &lt;/context&gt;</td>
+              </tr>
+            </tbody>
+          </table>
+          　server.xml<br>
+          <table border="1">
+            <tbody>
+              <tr>
+                <td width="569">&lt;GlobalNamingResources&gt;<br>
+                <br>
+                　&lt;Resource name=&quot;<font color="#ff0000">mail/Session</font>&quot; <br>
+                　　auth=&quot;Container&quot; <br>
+                　　type=&quot;javax.mail.Session&quot; <br>
+                　　mail.smtp.host=&quot;probsc.sakura.ne.jp&quot;　　←　SMTPメールサーバー<br>
+                　　mail.smtp.auth=&quot;true&quot;<br>
+                　　mail.smtp.user=&quot;メールアドレス&quot;<br>
+                　　mail.smtp.pwd=&quot;パスワード&quot;/&gt;<br>
+<br>
+                &lt;/GlobalNamingResources&gt;<br>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br>
+          　※SMTPサーバーを２箇所で設定するのはなぜなんでしょうか・・・<br>
+          <br>
+          <h3>インストールライブラリ</h3>
+          <p>Java Mailライブラリのバージョンとしては古いのですが、WebPerformerのマニュアルで指定されているので、ヘタに逆らってもハマるだけです・・・<br>
+          mail.jar, activation.jarを以下よりダウンロードし、&lt;TOMCAT_HOME&gt;/lib にコピーします。</p>
+          <p>■JavaMail API Release 1.3.3<BR>
+          　http://www.oracle.com/technetwork/java/javamail-1-3-3-137201.html　から<BR>
+          　javamail-1_3_3_01.zip　をダウンロードし、中からmail.jarを取り出す。<br>
+          <br>
+          ■JavaBeans Activation Framework　http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-java-plat-419418.html#jaf-1.1.1-fcs-oth-JPR　から
+          jaf-1_1-fr.zip　をダウンロードし、中からactivation.jarを取り出す。</p>
+          <br>
+          以上です。
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+        </div>
+      </div>
+      <!-- main end -->
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav">
+      <h3 class="hpb-c-index">ナビゲーション</h3>
+      <ul>
+        <li id="nav-toppage"><a href="../index.html"><span class="ja">トップページ</span><span class="en">TOP&nbsp;PAGE</span></a> 
+        <li id="nav-concept"><a href="../about.html"><span class="ja">企業概要</span><span class="en">CONCEPT</span></a> 
+        <li id="nav-service"><a href="../business.html"><span class="ja">３つの提案</span><span class="en">SERVICE&amp;PRODUCTS</span></a> 
+        <li id="nav-news"><a href="../kintone.html"><span class="ja">kintone</span><span class="en">NEWS&amp;FAQ</span></a> 
+        <li id="nav-company"><a href="../xrad.html"><span class="ja">超高速開発</span><span class="en">COMPANY</span></a> 
+        <li id="nav-wp"><a href="wp.html">Web Peformer<span class="ja"></span><span class="en">Web Performer</span></a> 
+        <li id="nav-senzoku"><a href="../komon.html"><span class="ja">顧問エンジニア</span><span class="en">COMPANY</span></a> 
+        <li id="nav-bi"><a href="../bi.html"><span class="ja">BIツール</span><span class="en">RECRUIT</span></a> 
+        <li id="nav-achieve"><a href="../achievement.html"><span class="ja">実績</span><span class="en">ACHIEVEMENT</span></a> 
+        <li id="nav-other"><a href="../partner.html"><span class="ja">その他</span><span class="en">ANYTHING-OK</span></a> 
+      </ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <h3 class="hpb-c-index">バナースペース</h3>
+      <div id="banner">
+        <ul>
+          <li><a id="banner-blog" href="../index.html" target="_self" onclick="alert('準備中です')">成功事例</a> 
+          <li><a href="../kintone.html" id="banner-service">kintone</a> 
+          <li><a href="../xrad.html" id="banner-recruit">超高速開発</a> 
+          <li><a href="../komon.html" id="banner-exclusive">顧問エンジニア</a> 
+          <li><a href="../bi.html" id="banner-access">アクセス</a> <!--
+          <li><a href="http://probsc-ua.sblo.jp/" target="_blank" id="banner-blog">ブログ</a> 
+-->
+        </ul>
+      </div>
+      <div id="companyinfo">
+        <h3>株式会社ナナイロ</h3>
+        <p>〒980-0014<br>
+        宮城県仙台市青葉区本町２－６－３５</p>
+        <p>TEL 022-200-9006<br>
+        FAX 022-721-3503<br>
+        URL <a href="http://probsc.jp" target="_blank">http://nanairo-inc.jp</a><br>
+        Mail <br>
+        ishimori_yuzuru☆nanairo-inc.jp<br>
+        担当 石森</p>
+      </div>
+    </div>
+    <!-- aside end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerMain">
+      <p>copyright&copy;2017&nbsp;nanairo inc.&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+    </div>
+    <div id="hpb-footerExtra1">
+      <h3 class="hpb-c-index">サブナビゲーション</h3>
+      <ul>
+        <li><a href="http://nanairo-inc.jp/privacy/" target="_blank">個人情報保護方針</a> 
+        <li><a href="../recruit.html">求める人物像</a> 
+      </ul>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<!-- container end --><script type="text/javascript" src="../navigation.js">hpb-navigation-js</script> </body>
+</html>

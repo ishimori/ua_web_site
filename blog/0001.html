@@ -1,0 +1,285 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 19.0.8.0 for Windows">
+<title>Web Performer 機能紹介</title>
+<link rel="stylesheet" href="../hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="../container_1L_2c_top.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="../main_1L_2c.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="../user.css" type="text/css" id="hpbuser">
+<script type="text/javascript" src="../jquery.min.js"><!-- hpbiptitle jQuery library --></script> <script type="text/javascript" src="../move-mainnav.js">hpb-move-mainnav-js</script> 
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41005437-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body id="hpb-template-01-12-02" class="hpb-layoutset-02 hpb-responsive">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1>株式会社ナナイロはBIシステム構築、データ分析、Excel, Access, 超高速開発を得意分野とする仙台のソフトウェア企業です。</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="../index.html">株式会社ナナイロ</a></div>
+    <div id="hpb-headerExtra1">
+      <p class="tel"><span>TEL. </span>022-200-9006</p>
+      <p class="address">〒980-0014 宮城県仙台市青葉区本町2-3-10 仙台本町ビル</p>
+    </div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title">
+        <h2><span class="ja">0001 開発環境準備</span><span class="en">HEADLINE</span></h2>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <div class="hpb-parts-cnt-01 hpb-parts-cnt-style clearfix">
+          Web Performerの開発環境構築手順をまとめます。<font color="#ff0000">（このページは書きかけです。）</font>
+          <h3>インストールするソフトウェア</h3>
+          <p>Eclipse<br>
+          J2EE<br>
+          TOmcat</p>
+          <h3>開発アプリケーションへのリンク</h3>
+          <p>Web Perfomer環境構築メモ<br>
+<br>
+■JDK<br>
+・Java SE Development Kit 8u65<br>
+　jdk-8u65-windows-x64.exe<br>
+　インストール先：C:\tools\Java\jdk1.8.0_65\<br>
+　※JREもインストール求められるので、C:\tools\Java\jre1.8.0_65\<br>
+<br>
+・環境変数設定<br>
+　JAVA_HOME<br>
+<br>
+■J2EE<br>
+・Java Platform, Enterprise Edition 6 SDK Update 3<br>
+　java_ee_sdk-6u3-windows.exe<br>
+　インストール先：c:\tools\glassfish3<br>
+<br>
+・バージョン<br>
+　最新版は「Java Platform, Enterprise Edition 7 SDK Update 2」だが、<br>
+　インストーラーがUniversal zip installer となっており、Windows installerが提供されていないので、<br>
+　今回は 6を選択<br>
+<br>
+・インストーラー起動方法<br>
+　java_ee_sdk-6u3-windows.exe -j C:\tools\Java\jdk1.8.0_65<br>
+　※普通にExe起動するとエラーになる。<br>
+<br>
+・設定<br>
+　インスタンスの設定<br>
+          　　構成：ドメイン<br>
+          <br>
+必要な設定を行なっています<br>
+_____________<br>
+<br>
+ドメインを作成しています<br>
+____________<br>
+実行中のコマンド:C:\tools\glassfish3\glassfish\bin\asadmin.bat --user admin --passwordfile - create-domain --savelogin --checkports=false --adminport 4848 --instanceport 8080 --domainproperties=jms.port=7676:domain.jmxPort=8686:orb.listener.port=3700:http.ssl.port=8181:orb.ssl.port=3820:orb.mutualauth.port=3920 domain1 <br>
+C:\tools\glassfish3\glassfish\bin\asadmin.bat --user admin --passwordfile - create-domain --savelogin --checkports=false --adminport 4848 --instanceport 8080 --domainproperties=jms.port=7676:domain.jmxPort=8686:orb.listener.port=3700:http.ssl.port=8181:orb.ssl.port=3820:orb.mutualauth.port=3920 domain1 Using port 4848 for Admin.<br>
+Using port 8080 for HTTP Instance.<br>
+Using port 7676 for JMS.<br>
+Using port 3700 for IIOP.<br>
+Using port 8181 for HTTP_SSL.<br>
+Using port 3820 for IIOP_SSL.<br>
+Using port 3920 for IIOP_MUTUALAUTH.<br>
+Using port 8686 for JMX_ADMIN.<br>
+Using default port 6666 for OSGI_SHELL.<br>
+Using default port 9009 for JAVA_DEBUGGER.<br>
+The file in given locale [ja_JP] at: [C:\tools\glassfish3\glassfish\lib\templates\locales\ja_JP\index.html] could not be found. Using default (en_US) index.html instead.<br>
+Distinguished Name of the self-signed X.509 Server Certificate is:<br>
+[CN=PC136,OU=GlassFish,O=Oracle Corporation,L=Santa Clara,ST=California,C=US]<br>
+Distinguished Name of the self-signed X.509 Server Certificate is:<br>
+[CN=PC136-instance,OU=GlassFish,O=Oracle Corporation,L=Santa Clara,ST=California,C=US]<br>
+No domain initializers found, bypassing customization step<br>
+Domain domain1 created.<br>
+Domain domain1 admin port is 4848.<br>
+Domain domain1 admin user is &quot;admin&quot;.<br>
+Login information relevant to admin user name [admin]<br>
+for this domain [domain1] stored at<br>
+[C:\Users\ishimori\.asadminpass] successfully.<br>
+Make sure that this file remains protected.<br>
+Information stored in this file will be used by<br>
+asadmin commands to manage this domain.<br>
+Command create-domain executed successfully.<br>
+<br>
+<br>
+ドメインを起動しています<br>
+____________<br>
+実行中のコマンド:C:\tools\glassfish3\glassfish\bin\asadmin.bat start-domain domain1<br>
+<br>
+C:\tools\glassfish3\glassfish\bin\asadmin.bat start-domain domain1<br>
+Attempting to start domain1.... Please look at the server log for more details.....<br>
+-----------------------<br>
+<br>
+↑どこからアクセスすればいいか、URL不明<br>
+　とりあえず飛ばして先に進む<br>
+<br>
+■ANT<br>
+・Apache Ant<br>
+　apache-ant-1.9.6-bin.zip<br>
+　インストール先：C:\tools\apache-ant-1.9.6<br>
+<br>
+・環境変数<br>
+　ANT_HOME<br>
+<br>
+■確認<br>
+          ・環境変数<br>
+<br>
+■Tomcat<br>
+　個別インストールはしない<br>
+　pleiadesにセットされているものを使う。<br>
+・環境変数<br>
+　CATALINA_HOME: C:\tools\pleiades\tomcat\8<br>
+<br>
+■eclipse pleiades<br>
+・Pleiades All in One 4.5.1.v20151002<br>
+　Eclipse 4.5 Mars マース SR1 for Windows ベース<br>
+　の Java 64bit Full Edition<br>
+　pleiades-e4.5-java-jre_20151002.zip<br>
+<br>
+※JDK6,7,8、Tomcat6,7,8が同梱されている…<br>
+<br>
+■JavaMail API Release 1.3.3<br>
+　http://www.oracle.com/technetwork/java/javamail-1-3-3-137201.html<br>
+　javamail-1_3_3_01.zip　をダウンロードし、<br>
+　中からmail.jarを取り出し、<br>
+　C:\tools\pleiades\tomcat\8\lib　にコピー<br>
+<br>
+■JavaBeans Activation Framework<br>
+　http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-java-plat-419418.html#jaf-1.1.1-fcs-oth-JPR<br>
+　jaf-1_1-fr.zip　をダウンロードし、<br>
+　中からactivation.jarを取り出し、<br>
+　C:\tools\pleiades\tomcat\8\lib　にコピー<br>
+<br>
+<br>
+■Web Performerプラグイン<br>
+・WPPlugin_1500.exe<br>
+          ・インストールキー　xxxx-xxxxxx-xxxxx<br>
+　画面に沿って進む。eclipseフォルダはpleiades配下にあることに注意。<br>
+<br>
+■JDBCドライバ<br>
+　SQLServerは sqldbjc4.jar (全バージョン2005-2014で同じ）<br>
+　sqljdbc_4.0.2206.100_jpn.exe　でダウンロード<br>
+<br>
+--------------------------------------------<br>
+pleiades Fullを使うのを止める<br>
+■Tomcat<br>
+・apache-tomcat-7.0.65-windows-x64.zip<br>
+　インストールディレクトリ：c:\tools\apache-tomcat-7.0.65<br>
+<br>
+・環境変数<br>
+　CATALINA_HOME: c:\tools\apache-tomcat-7.0.65<br>
+<br>
+・server.xml<br>
+・tomcat-users.xml<br>
+　をマニュアルに沿って修正する。<br>
+　ユーザーは admin/admin で登録<br>
+<br>
+・起動<br>
+　startup.bat で起動し、 http://localhost:8080 で接続<br>
+<br>
+■eclipse<br>
+・eclipse-inst-win64.exe<br>
+　4.5.1 mars<br>
+　Java Developer<br>
+<br>
+　初めて見るインストール形式だ…<br>
+　インストールディレクトリ：c:\tools\eclipse\mars<br>
+<br>
+やめる<br>
+<br>
+■Eclipse Pleiades 4.5 Java Standardをダウンロード<br>
+・Graphical Editing Framework GEF SDKインストール<br>
+　検索URLは　http://download.eclipse.org/releases/mars/<br>
+　※１回目はエラーになった。<br>
+・Tomcat Pluginインストール<br>
+<br>
+■Web Performerプラグイン<br>
+　WPPlugin_1500.exeからインストール<br>
+          　インストールキー xxxx-xxxxxx-xxxxx<br>
+          　※インストールすると、インストールフォルダ名の変更が出来なくなるので注意<br>
+<br>
+          以上<br>
+          </p>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+        </div>
+      </div>
+      <!-- main end -->
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav">
+      <h3 class="hpb-c-index">ナビゲーション</h3>
+      <ul>
+        <li id="nav-toppage"><a href="../index.html"><span class="ja">トップページ</span><span class="en">TOP&nbsp;PAGE</span></a> 
+        <li id="nav-concept"><a href="../about.html"><span class="ja">事業部概要</span><span class="en">CONCEPT</span></a> 
+        <li id="nav-service"><a href="../business.html"><span class="ja">３つの提案</span><span class="en">Proposal</span></a> 
+        <li id="nav-bi"><a href="../bi.html"><span class="ja">データの可視化</span><span class="en">VISUALIZE</span></a> 
+        <li id="nav-company"><a href="../groupware.html"><span class="ja">グループウェア</span><span class="en">GROUPWARE</span></a> 
+        <li id="nav-senzoku"><a href="../komon.html"><span class="ja">顧問エンジニア</span><span class="en">engineer</span></a> 
+        <li id="nav-achieve"><a href="../achievement.html"><span class="ja">実績</span><span class="en">ACHIEVEMENT</span></a> 
+        <li id="nav-other"><a href="../partner.html"><span class="ja">その他</span><span class="en">ANYTHING-OK</span></a> 
+      </ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <h3 class="hpb-c-index">バナースペース</h3>
+      <div id="banner">
+        <ul>
+          <li><a id="banner-blog" href="../shukatu.html" target="_self">就活ポータルSaaS</a> 
+          <li><a href="../xrad.html" id="banner-recruit">超高速開発</a> 
+          <li><a href="../komon.html" id="banner-exclusive">顧問エンジニア</a> 
+          <li><a href="../bi.html" id="banner-access">アクセス</a> <!--
+          <li><a href="http://probsc-ua.sblo.jp/" target="_blank" id="banner-blog">ブログ</a> 
+-->
+        </ul>
+      </div>
+      <div id="companyinfo">
+        <h3>株式会社ナナイロ</h3>
+        <p>〒980-0014<br>
+        宮城県仙台市青葉区本町2-3-10 <br>
+        仙台本町ビル</p>
+        <p>TEL 022-200-9006<br>
+        FAX 022-721-3503<br>
+        URL <a href="http://nanairo-inc.jp" target="_blank">http://nanairo-inc.jp</a><br>
+        採用サイト <a href="https://nanairo-inc.jp/graduate_recruitment" target="_blank">https://nanairo-inc.jp/graduate_recruitment</a><br>
+        Mail <br>
+        ishimori_yuzuru☆nanairo-inc.jp<br>
+        担当 石森</p>
+      </div>
+    </div>
+    <!-- aside end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerMain">
+      <p>copyright&copy;2020&nbsp;nanairo inc.&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+    </div>
+    <div id="hpb-footerExtra1">
+      <h3 class="hpb-c-index">サブナビゲーション</h3>
+      <ul>
+        <li><a href="http://nanairo-inc.jp/privacy/" target="_blank">個人情報保護方針</a> 
+        <li><a href="../recruit.html">求める人物像</a> 
+        <li><a href="https://nanairo-inc.jp/graduate_recruitment/" target="_blank">学生、第2新卒の方へ</a> 
+      </ul>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<!-- container end --><script type="text/javascript" src="../navigation.js">hpb-navigation-js</script> </body>
+</html>
